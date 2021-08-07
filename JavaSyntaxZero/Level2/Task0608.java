@@ -1,6 +1,6 @@
 package JavaSyntaxZero.Level2;
 
-public class Task0508 {
+public class Task0608 {
     public static void main(String[] args) {
 
     }
